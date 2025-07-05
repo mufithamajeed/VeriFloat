@@ -38,9 +38,9 @@ $$
 
 Subject to:
 - Asset weight constraints:  
-$$
+$
 0 \leq w_1, w_2, w_3 \leq 1
-$$
+$
 - Total allocation constraint:  
 $$
 w_1 + w_2 + w_3 \leq 1
