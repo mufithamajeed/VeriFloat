@@ -133,7 +133,7 @@ This project lays the groundwork for more advanced research and development in:
 * Formal verification of **option pricing models**
 * Automated reasoning for **Value-at-Risk (VaR)** compliance checks
 * Integration with **interactive theorem provers** (Coq, Isabelle)
-* **Parametric floating-point reasoning** — directly aligned with ongoing research in programming language theory and formal methods.
+* **Parametric floating-point reasoning** - directly aligned with ongoing research in programming language theory and formal methods.
 
 ---
 
