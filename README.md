@@ -37,23 +37,19 @@ $$
 $$
 
 Subject to:
-- Asset weight constraints:  
-$
-0 \leq w_1, w_2, w_3 \leq 1
-$
-- Total allocation constraint:  
-$$
-w_1 + w_2 + w_3 \leq 1
-$$
-- Asset returns bounded:  
-$$
--1 \leq r_1, r_2, r_3 \leq 1
-$$
 
-It verifies whether the following **safety property** holds under all valid inputs:
-$$
--1 \leq \text{Portfolio Return} \leq 1
-$$
+- **Asset weight constraints:**  
+  `0 ≤ w₁, w₂, w₃ ≤ 1`
+
+- **Total allocation constraint:**  
+  `w₁ + w₂ + w₃ ≤ 1`
+
+- **Asset returns bounded:**  
+  `-1 ≤ r₁, r₂, r₃ ≤ 1`
+
+We verify whether the following **safety property** holds under all valid inputs:
+
+`-1 ≤ Portfolio Return ≤ 1`
 
 ---
 
