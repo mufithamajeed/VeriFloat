@@ -111,7 +111,7 @@ If a violation exists, Z3 will generate a **counterexample** showing exact value
 | `verifloat_fp.py`      | Portfolio model with floating-point drift   |
 | `verifloat_multi.py`   | Multi-period portfolio model                |
 | `test_cases.py`        | Runs all verification scenarios in sequence |
-| `demo_verifloat.ipynb` | Interactive notebook (optional)             |
+| `demo.ipynb`           | Interactive notebook                        |
 | `README.md`            | Project overview and instructions           |
 
 ---
